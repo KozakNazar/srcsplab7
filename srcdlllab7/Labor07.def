@@ -1,0 +1,3 @@
+LIBRARY Labor07; library name
+EXPORTS
+    TestFunction @1; function name
